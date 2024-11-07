@@ -47,7 +47,7 @@ button{
     padding: 8px 18px;
     border: 1px solid black;
     border-radius: 20px; 
-    margin-left: 80px;
+    margin-left: 90px;
     transform: translateY(-20px);   
 }
 
@@ -90,7 +90,7 @@ button{
      .item img{
         width: 350px;
         height: 350px;
-        padding-inline: 10px;
+    
         border-radius: 15px;
         
      }   
